@@ -17,10 +17,7 @@ const Trending = () => {
                 <h1 className='text-[20px] font-medium'>What's Happening</h1>
 
                 <TrendingList />
-                <TrendingList />
-                <TrendingList />
-                <TrendingList />
-                <TrendingList />
+                
 
             </div>
 
