@@ -9,9 +9,7 @@ const TrendingList = () => {
                 <h1 className='font-medium pr-2'>ServerChat/Y released</h1>
             </div>
 
-            <div>
-                <Image className='rounded-[20px]' src="/trending-1.jfif" height="120px" width="120px" />
-            </div>
+            
         </div>
     )
 }
